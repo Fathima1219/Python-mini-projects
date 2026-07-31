@@ -1,2 +1,6 @@
-# Python-mini-projects
-My first 3 projects for resume
+## Certifications 🏆
+
+### IBM SkillsBuild Internship
+- **Certificate Link**: [IBM Certificate PDF]
+- **Skills**: Python, Cloud, AI
+- **Completed**: July 2026
